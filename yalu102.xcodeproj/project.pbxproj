@@ -78,6 +78,12 @@
 		B4DB9A1D20296800000EA72C /* IOKit */ = {
 			isa = PBXGroup;
 			children = (
+				B4DB9A18202963A8000EA72C /* IOKitLib.h */,
+				B4DB9A1C20296625000EA72C /* OSMessageNotification.h */,
+				B4DB9A1920296588000EA72C /* IOTypes.h */,
+				B4DB9A1B202965F8000EA72C /* IOKitKeys.h */,
+				B4DB9A1A202965C7000EA72C /* IOReturn.h */,
+				EA9901181E21A2180056FEBD /* IOKit.tbd */,
 			);
 			name = IOKit;
 			sourceTree = "<group>";
@@ -115,12 +121,6 @@
 				EA9900EF1E1E9F060056FEBD /* Main.storyboard */,
 				EA9900F41E1E9F060056FEBD /* LaunchScreen.storyboard */,
 				EA9900F71E1E9F060056FEBD /* Info.plist */,
-				B4DB9A18202963A8000EA72C /* IOKitLib.h */,
-				B4DB9A1C20296625000EA72C /* OSMessageNotification.h */,
-				B4DB9A1920296588000EA72C /* IOTypes.h */,
-				B4DB9A1B202965F8000EA72C /* IOKitKeys.h */,
-				B4DB9A1A202965C7000EA72C /* IOReturn.h */,
-				EA9901181E21A2180056FEBD /* IOKit.tbd */,
 				EA9901051E219FF10056FEBD /* bootstrap.tar */,
 				EA9901091E21A04C0056FEBD /* tar */,
 				EA99010B1E21A0520056FEBD /* launchctl */,
